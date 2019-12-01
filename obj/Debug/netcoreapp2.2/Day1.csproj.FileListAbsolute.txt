@@ -1,0 +1,11 @@
+Z:\work\AdventOfCode\Day1\obj\Debug\netcoreapp2.2\Day1.csprojAssemblyReference.cache
+Z:\work\AdventOfCode\Day1\obj\Debug\netcoreapp2.2\Day1.csproj.CoreCompileInputs.cache
+Z:\work\AdventOfCode\Day1\obj\Debug\netcoreapp2.2\Day1.AssemblyInfoInputs.cache
+Z:\work\AdventOfCode\Day1\obj\Debug\netcoreapp2.2\Day1.AssemblyInfo.cs
+Z:\work\AdventOfCode\Day1\bin\Debug\netcoreapp2.2\Day1.deps.json
+Z:\work\AdventOfCode\Day1\bin\Debug\netcoreapp2.2\Day1.runtimeconfig.json
+Z:\work\AdventOfCode\Day1\bin\Debug\netcoreapp2.2\Day1.runtimeconfig.dev.json
+Z:\work\AdventOfCode\Day1\bin\Debug\netcoreapp2.2\Day1.dll
+Z:\work\AdventOfCode\Day1\bin\Debug\netcoreapp2.2\Day1.pdb
+Z:\work\AdventOfCode\Day1\obj\Debug\netcoreapp2.2\Day1.dll
+Z:\work\AdventOfCode\Day1\obj\Debug\netcoreapp2.2\Day1.pdb
